@@ -1,7 +1,7 @@
-import os,sys  
+import os
+import sys
 
 x = 10
 y = 20
-unused = 100  
 
-print( x+y )
+print(x + y)
