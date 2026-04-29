@@ -1,6 +1,3 @@
-import os
-import sys
-
 x = 10
 y = 20
 
